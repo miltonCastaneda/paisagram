@@ -1,0 +1,3 @@
+npm init//iniciar proyecto
+npm install --save express// incluir express como depencias
+node server.js//ejecutar archivo

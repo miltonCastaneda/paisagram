@@ -1,0 +1,27 @@
+{
+  "name": "paisagram",
+  "version": "0.1.0",
+  "description": "Aplicación, que permite a todo viajero tomar y enviar fotos de los paisajes que hacen parte de su camino.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonCastaneda/paisagram.git"
+  },
+  "keywords": [
+    "paisajes",
+    "paisagram",
+    "paisajes-instagram"
+  ],
+  "author": "Milton Castañeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miltonCastaneda/paisagram/issues"
+  },
+  "homepage": "https://github.com/miltonCastaneda/paisagram#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
